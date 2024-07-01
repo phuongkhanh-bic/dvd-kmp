@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.rwmobi.dvdmultiplatform.debug",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "outputFile": "DVDMultiplatform-1.0-20240701-222937-debug.apk"
+    }
+  ],
+  "elementType": "File",
+  "minSdkVersionForDexing": 24
+}

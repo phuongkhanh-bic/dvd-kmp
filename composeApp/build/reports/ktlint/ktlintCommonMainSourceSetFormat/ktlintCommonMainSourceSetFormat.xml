@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="8.0">
+    <file name="/Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/src/commonMain/kotlin/App.kt">
+        <error line="29" column="5" severity="error" message="Function name should start with a lowercase letter (except factory methods) and use camel case" source="standard:function-naming" />
+    </file>
+</checkstyle>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="8.0">
+    <file name="/Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/src/desktopMain/kotlin/main.kt">
+        <error line="1" column="1" severity="error" message="File name &apos;main.kt&apos; should conform PascalCase" source="standard:filename" />
+    </file>
+</checkstyle>

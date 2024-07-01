@@ -1,0 +1,4 @@
+[31m/Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/src/commonMain/kotlin/[0mApp.kt[31m:[0m29[31m:5:[0m Function name should start with a lowercase letter (except factory methods) and use camel case [31m(standard:function-naming)[0m
+
+Summary error count (descending) by rule:
+  standard:function-naming: 1

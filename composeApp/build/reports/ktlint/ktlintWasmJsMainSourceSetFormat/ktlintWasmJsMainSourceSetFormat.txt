@@ -1,0 +1,4 @@
+[31m/Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/src/wasmJsMain/kotlin/[0mmain.kt[31m:[0m1[31m:1:[0m File name 'main.kt' should conform PascalCase [31m(standard:filename)[0m
+
+Summary error count (descending) by rule:
+  standard:filename: 1

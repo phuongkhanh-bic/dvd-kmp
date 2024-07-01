@@ -1,0 +1,46 @@
+com.rwmobi.dvdmultiplatform.composeApp-lifecycle-process-2.6.2-0 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/00ed10dc0db2f06f890623d53dd1bd75/transformed/lifecycle-process-2.6.2/res
+com.rwmobi.dvdmultiplatform.composeApp-annotation-experimental-1.4.0-1 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/01d4494decd6e81701bceb7650d3147f/transformed/annotation-experimental-1.4.0/res
+com.rwmobi.dvdmultiplatform.composeApp-material-release-2 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/02c2c41a6a57f56aae8cf6d93019315f/transformed/material-release/res
+com.rwmobi.dvdmultiplatform.composeApp-material-ripple-release-3 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/064f54dd5cfd88ae692ef44cf79f882e/transformed/material-ripple-release/res
+com.rwmobi.dvdmultiplatform.composeApp-ui-util-release-4 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/0cbdfe864fc37603ad5e6940f15ea52d/transformed/ui-util-release/res
+com.rwmobi.dvdmultiplatform.composeApp-lifecycle-viewmodel-ktx-2.6.2-5 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/218635449902ebb9d033f86db09c76ee/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.rwmobi.dvdmultiplatform.composeApp-core-ktx-1.13.0-6 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/2973fbcf52041a2f66c837a276ebe68d/transformed/core-ktx-1.13.0/res
+com.rwmobi.dvdmultiplatform.composeApp-savedstate-ktx-1.2.1-7 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/2db589c5024e2cab7d1b90048e219a47/transformed/savedstate-ktx-1.2.1/res
+com.rwmobi.dvdmultiplatform.composeApp-activity-1.9.0-8 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/340b2a519066b789a2b807cbb9c9c39b/transformed/activity-1.9.0/res
+com.rwmobi.dvdmultiplatform.composeApp-activity-ktx-1.9.0-9 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/36d41f64fc5254304b60fb6475534600/transformed/activity-ktx-1.9.0/res
+com.rwmobi.dvdmultiplatform.composeApp-emoji2-1.3.0-10 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/3f49ed926999d277b5a460a4e0f303d3/transformed/emoji2-1.3.0/res
+com.rwmobi.dvdmultiplatform.composeApp-runtime-saveable-release-11 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/40518bb0089172ce0b7f7e5eb62c616c/transformed/runtime-saveable-release/res
+com.rwmobi.dvdmultiplatform.composeApp-startup-runtime-1.1.1-12 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/4730596ef44f900cf8ea5ba5f7885f34/transformed/startup-runtime-1.1.1/res
+com.rwmobi.dvdmultiplatform.composeApp-lifecycle-viewmodel-savedstate-2.6.2-13 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/4c4fddda795940d2ee8176fb68027cbf/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.rwmobi.dvdmultiplatform.composeApp-ui-tooling-data-release-14 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/4f4507d086f598369852b84a6dd26699/transformed/ui-tooling-data-release/res
+com.rwmobi.dvdmultiplatform.composeApp-ui-text-release-15 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/505f6ab7f56a308d591aeb4800fbd5e1/transformed/ui-text-release/res
+com.rwmobi.dvdmultiplatform.composeApp-ui-release-16 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/5215aa908c214e6f3a28bb8efae2a146/transformed/ui-release/res
+com.rwmobi.dvdmultiplatform.composeApp-lifecycle-livedata-core-2.6.2-17 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/53d6210db45a43ce309cfce8adb0a42e/transformed/lifecycle-livedata-core-2.6.2/res
+com.rwmobi.dvdmultiplatform.composeApp-savedstate-1.2.1-18 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/55135aeca22ebddbe84d72d703636743/transformed/savedstate-1.2.1/res
+com.rwmobi.dvdmultiplatform.composeApp-animation-core-release-19 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/5e405d8186251e37308cd6948158d32d/transformed/animation-core-release/res
+com.rwmobi.dvdmultiplatform.composeApp-ui-unit-release-20 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/67a59e4a456f7d4b2e670ab4d6bbec69/transformed/ui-unit-release/res
+com.rwmobi.dvdmultiplatform.composeApp-ui-geometry-release-21 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/6c5325505c554cfaa333313cf00ebc87/transformed/ui-geometry-release/res
+com.rwmobi.dvdmultiplatform.composeApp-foundation-release-22 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/71139137452412e69bc9436de649184d/transformed/foundation-release/res
+com.rwmobi.dvdmultiplatform.composeApp-core-1.13.0-23 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/7115072b7e68ff6c33bdc5f0cd904c9f/transformed/core-1.13.0/res
+com.rwmobi.dvdmultiplatform.composeApp-runtime-release-24 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/921ba521dfb24a131927092070add67c/transformed/runtime-release/res
+com.rwmobi.dvdmultiplatform.composeApp-ui-tooling-release-25 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/9e377e26a295df6a214ed13a825ed935/transformed/ui-tooling-release/res
+com.rwmobi.dvdmultiplatform.composeApp-lifecycle-runtime-ktx-2.6.2-26 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/9ec034d6235f8edfd49b5355dc1e0f79/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.rwmobi.dvdmultiplatform.composeApp-activity-compose-1.9.0-27 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/9fc215cc6b8b1ba2ac95adb9182c264b/transformed/activity-compose-1.9.0/res
+com.rwmobi.dvdmultiplatform.composeApp-ui-graphics-release-28 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/a84002380f62e13f1f9d86f85f65bc54/transformed/ui-graphics-release/res
+com.rwmobi.dvdmultiplatform.composeApp-material-icons-core-release-29 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/ab2d6ca1d472d523ee4dab82d5ca8c77/transformed/material-icons-core-release/res
+com.rwmobi.dvdmultiplatform.composeApp-ui-tooling-preview-release-30 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/acf237bdea174e7e387295d3e1768154/transformed/ui-tooling-preview-release/res
+com.rwmobi.dvdmultiplatform.composeApp-profileinstaller-1.3.1-31 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/ae4020c306c9fdd77a9617eb94ffcc39/transformed/profileinstaller-1.3.1/res
+com.rwmobi.dvdmultiplatform.composeApp-animation-release-32 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/b0e199dfd4d0fff8efc394bd870ebc53/transformed/animation-release/res
+com.rwmobi.dvdmultiplatform.composeApp-customview-poolingcontainer-1.0.0-33 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/cea35e4e2711fb442ef211d8d37aa392/transformed/customview-poolingcontainer-1.0.0/res
+com.rwmobi.dvdmultiplatform.composeApp-lifecycle-runtime-2.6.2-34 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/e7611af2fd0ebbcd6e92bc12e5a810b0/transformed/lifecycle-runtime-2.6.2/res
+com.rwmobi.dvdmultiplatform.composeApp-lifecycle-viewmodel-2.6.2-35 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/e828f0e8375af65365002f84f37836fa/transformed/lifecycle-viewmodel-2.6.2/res
+com.rwmobi.dvdmultiplatform.composeApp-core-runtime-2.2.0-36 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/ea0184f8cba488b751aadea731d73f0c/transformed/core-runtime-2.2.0/res
+com.rwmobi.dvdmultiplatform.composeApp-foundation-layout-release-37 /Users/evol-phuongkhanh/.gradle/caches/8.8/transforms/ea47c8dc089daca40ee141fe8b349e16/transformed/foundation-layout-release/res
+com.rwmobi.dvdmultiplatform.composeApp-pngs-38 /Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/build/generated/res/pngs/debug
+com.rwmobi.dvdmultiplatform.composeApp-resValues-39 /Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/build/generated/res/resValues/debug
+com.rwmobi.dvdmultiplatform.composeApp-packageDebugResources-40 /Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.rwmobi.dvdmultiplatform.composeApp-packageDebugResources-41 /Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.rwmobi.dvdmultiplatform.composeApp-debug-42 /Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/build/intermediates/merged_res/debug/mergeDebugResources
+com.rwmobi.dvdmultiplatform.composeApp-androidMain-43 /Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/src/androidMain/res
+com.rwmobi.dvdmultiplatform.composeApp-debug-44 /Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/src/debug/res
+com.rwmobi.dvdmultiplatform.composeApp-main-45 /Users/evol-phuongkhanh/Khanh/Learning Code/dvd-kmp/composeApp/src/main/res
